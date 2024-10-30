@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azdinserhani
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning and practicing the PERN stack
-- 💞️ I’m looking to collaborate on some PERN stack projects
+- 🌱 I’m currently learning and practicing the MERN stack
+- 💞️ I’m looking to collaborate on some Full stack projects
 
 
 <!---
