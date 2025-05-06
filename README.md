@@ -46,8 +46,6 @@ This very portfolio showcasing my skills and projects using React and Tailwind C
 
 ![Serhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azdinserhani&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azdinserhani&theme=tokyonight)
-
 
 ---
 
