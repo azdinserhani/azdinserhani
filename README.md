@@ -42,9 +42,12 @@ A web app to browse Quranic verses with search and language selection features.
 ### 🔹 [My Portfolio](https://github.com/azdinserhani/My-portfolio)
 This very portfolio showcasing my skills and projects using React and Tailwind CSS.
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Serhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&theme=radical)
+![Serhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azdinserhani&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azdinserhani&theme=tokyonight)
+
 
 ---
 
