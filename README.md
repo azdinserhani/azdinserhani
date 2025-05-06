@@ -1,70 +1,57 @@
-# 🧑‍💻 Az-eddine Serhani's Profile
+# Hi there 👋 I'm Serhani Az-eddine
 
-Welcome to my GitHub! 👨‍💻
+🎯 **Junior Full Stack Developer | MERN Stack Enthusiast | Passionate Problem Solver**
 
-I'm Az-eddine Serhani, a full-stack web developer with a passion for creating dynamic and engaging applications.
+I'm a 20-year-old Moroccan full-stack developer with a strong passion for web development and building real-world solutions through code. I'm currently focused on mastering the **MERN stack (MongoDB, Express.js, React, Node.js)** and love taking on new challenges that push my skills further.
 
-> _"A good developer is someone who can solve problems with elegant and efficient code."_
+## 🚀 About Me
 
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on full-stack applications using the MERN stack.
+- 🌱 I’m constantly learning and improving my skills in modern web technologies.
+- 💼 I recently created a **portfolio website** to showcase my work and projects.
+- 💡 I enjoy building responsive, user-friendly web apps that solve real problems.
+- 📫 Reach me at: **azeddineserhani.dev@gmail.com**
 
-![](https://img.shields.io/badge/JavaScript-%20%3Ccode%3E%20-yellow)
-![](https://img.shields.io/badge/Node.js-%20%3Ccode%3E%20-green)
-![](https://img.shields.io/badge/React-%20%3Ccode%3E%20-blue)
-![](https://img.shields.io/badge/MongoDB-%20%3Ccode%3E%20-darkgreen)
-![](https://img.shields.io/badge/Express-%20%3Ccode%3E%20-orange)
+## 🛠️ Tech Stack
 
----
+- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Tools & Platforms:** Git, GitHub, VS Code, Render, Vercel
 
-## 🏆 Projects
+## 🌐 Portfolio
 
-Here are some of my latest projects:
+📌 Check out my portfolio: [az-eddine.onrender.com](https://az-eddine.onrender.com/)  
+It includes:
 
-- **[Glyco Vision](https://github.com/azdinserhani/Glyco-Vision-Backend-side)** - A blood sugar tracking platform with dynamic charts and real-time data.
-- **[E-commerce Website](https://github.com/azdinserhani/e-commerce-website)** - A fully-functional e-commerce site with React and MongoDB.
-- **[MyPortfolio](https://github.com/azdinserhani/Portfolio)** - My personal portfolio showcasing my skills and projects.
+- 📁 Featured Projects  
+- 🧠 Skills & Tech Stack  
+- 💬 Contact Form  
+- 🌙 Dark/Light Theme Toggle
 
----
+## 📂 Featured Projects
 
-## 👨‍💻 Current Focus
+Here are some of the projects I’ve worked on:
 
-- Building custom landing pages to boost sales 🚀
-- Developing an Uber clone using React Native and Node.js
-- Integrating real-time notifications in multi-vendor websites
+### 🔹 [E-Commerce Website](https://github.com/azdinserhani/e-commerce-client-side)
+A full-stack MERN e-commerce platform with user authentication, product management, and shopping cart functionality.
 
----
+### 🔹 [ClearQuran](https://github.com/azdinserhani/ClearQuran)
+A web app to browse Quranic verses with search and language selection features.
 
-## 📚 Learning & Growth
+### 🔹 [My Portfolio](https://github.com/azdinserhani/My-portfolio)
+This very portfolio showcasing my skills and projects using React and Tailwind CSS.
 
-- Currently studying **AWS** to get certified 📜
-- Improving my skills in **JavaScript**, **Node.js**, and **React Native** 🖥
-- Learning **German** and **French** for professional growth 🌍
+## 📈 GitHub Stats
 
----
-
-## 📊 GitHub Stats
-
-![Az-eddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 💬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/azdinserhani/)
-- [Twitter](https://twitter.com/azdinserhani)
-- [Website](https://your-portfolio-link.com)
+![Serhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&theme=radical)
 
 ---
 
-### Fun fact 🤓
-I love building websites and making them interactive! When I'm not coding, I like experimenting with new technologies or exploring new frameworks.
+### 📫 Let's Connect
 
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/az-eddine-serhani-32033a288/)
+- 🌐 [Portfolio](https://az-eddine.onrender.com/)
+- 📬 Email: **azeddineserhani.dev@gmail.com**
 
-## 💼 Freelance Work
-Interested in working with me? I'm available for **freelance backend development**.
-
----
-
-### 🌱 Fun Animations (For inspiration, on platforms that support it)
-
-```html
-<div class="bounce">🚀</div>
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 🚀
