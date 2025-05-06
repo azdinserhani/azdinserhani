@@ -53,6 +53,6 @@ This very portfolio showcasing my skills and projects using React and Tailwind C
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/az-eddine-serhani-32033a288/)
 - 🌐 [Portfolio](https://az-eddine.onrender.com/)
-- 📬 Email: **azeddineserhani.dev@gmail.com**
+- 📬 Email: **azdineserhani1@gmail.com**
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 🚀
