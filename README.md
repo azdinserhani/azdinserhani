@@ -31,8 +31,6 @@ It includes:
 
 ## 📂 Featured Projects
 
-Here are some of the projects I’ve worked on:
-
 ### 🔹 [E-Commerce Website](https://github.com/azdinserhani/e-commerce-client-side)
 A full-stack MERN e-commerce platform with user authentication, product management, and shopping cart functionality.
 
@@ -42,13 +40,11 @@ A web app to browse Quranic verses with search and language selection features.
 ### 🔹 [My Portfolio](https://github.com/azdinserhani/My-portfolio)
 This very portfolio showcasing my skills and projects using React and Tailwind CSS.
 
-## 📈 GitHub Stats
+## 📈 Contribution Snake
 
-![Serhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&theme=radical)
+![snake gif](https://github.com/azdinserhani/azdinserhani/blob/output/github-contribution-grid-snake.svg)
 
----
-
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/az-eddine-serhani-32033a288/)
 - 🌐 [Portfolio](https://az-eddine.onrender.com/)
