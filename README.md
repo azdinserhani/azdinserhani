@@ -10,7 +10,7 @@ I'm a 20-year-old Moroccan full-stack developer with a strong passion for web de
 - 🌱 I’m constantly learning and improving my skills in modern web technologies.
 - 💼 I recently created a **portfolio website** to showcase my work and projects.
 - 💡 I enjoy building responsive, user-friendly web apps that solve real problems.
-- 📫 Reach me at: **azeddineserhani.dev@gmail.com**
+- 📫 Reach me at: **azdineserhani1@gmail.com**
 
 ## 🛠️ Tech Stack
 
