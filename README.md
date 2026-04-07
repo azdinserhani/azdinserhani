@@ -1,58 +1,87 @@
-# Hi there 👋 I'm Serhani Az-eddine
+<div align="center">
 
-🎯 **Junior Full Stack Developer | MERN Stack Enthusiast | Passionate Problem Solver**
+![Available](https://img.shields.io/badge/Status-Available%20for%20work-1D9E75?style=flat&labelColor=E1F5EE&color=0F6E56)
 
-I'm a 20-year-old Moroccan full-stack developer with a strong passion for web development and building real-world solutions through code. I'm currently focused on mastering the **MERN stack (MongoDB, Express.js, React, Node.js)** and love taking on new challenges that push my skills further.
+# Az-eddine Serhani
+**Automation Engineer & Full-Stack Developer · Morocco 🇲🇦**
 
-## 🚀 About Me
+I help businesses automate workflows, build AI systems, and ship modern SaaS products faster — using **n8n**, **OpenAI**, **Next.js**, and the MERN stack.
 
-- 🔭 I’m currently working on full-stack applications using the MERN stack.
-- 🌱 I’m constantly learning and improving my skills in modern web technologies.
-- 💼 I recently created a **portfolio website** to showcase my work and projects.
-- 💡 I enjoy building responsive, user-friendly web apps that solve real problems.
-- 📫 Reach me at: **azdineserhani1@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-azdine.site-4CAF50?style=flat&logo=vercel)](https://azdine.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Az--eddine%20Serhani-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/az-eddine-serhani-32033a288/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/212636241246)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat&logo=fiverr)](https://www.fiverr.com/s/jjz24LL)
+[![Email](https://img.shields.io/badge/Email-contact%40azdine.site-EA4335?style=flat&logo=gmail)](mailto:contact@azdine.site)
 
-## 🛠️ Tech Stack
+| 🚀 20+ Projects | 🤝 15+ Clients | ⏱️ 3+ Years |
+|:-:|:-:|:-:|
 
-- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Tools & Platforms:** Git, GitHub, VS Code, Render, Vercel
-
-## 🌐 Portfolio
-
-📌 Check out my portfolio: [az-eddine.onrender.com](https://az-eddine.onrender.com/)  
-It includes:
-
-- 📁 Featured Projects  
-- 🧠 Skills & Tech Stack  
-- 💬 Contact Form  
-- 🌙 Dark/Light Theme Toggle
-
-## 📂 Featured Projects
-
-Here are some of the projects I’ve worked on:
-
-### 🔹 [E-Commerce Website](https://github.com/azdinserhani/e-commerce-client-side)
-A full-stack MERN e-commerce platform with user authentication, product management, and shopping cart functionality.
-
-### 🔹 [ClearQuran](https://github.com/azdinserhani/ClearQuran)
-A web app to browse Quranic verses with search and language selection features.
-
-### 🔹 [My Portfolio](https://github.com/azdinserhani/My-portfolio)
-This very portfolio showcasing my skills and projects using React and Tailwind CSS.
-
-## 📊 GitHub Stats
-
-![Serhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azdinserhani&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ What I do
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/az-eddine-serhani-32033a288/)
-- 🌐 [Portfolio](https://az-eddine.onrender.com/)
-- 📬 Email: **azdineserhani1@gmail.com**
+| 🤖 Automation & AI | 🌐 Web Development | 🛒 E-commerce |
+|---|---|---|
+| n8n workflow automation | SaaS apps (Next.js + Supabase) | Shopify automation |
+| AI agents & RAG chatbots | Dashboards & internal tools | Auto blog & product SEO |
+| API integrations (WhatsApp, CRM, payments) | High-converting landing pages | Dynamic pricing bots |
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 🚀
+**Tech stack:**
+`n8n` `OpenAI` `Next.js` `React` `Node.js` `MongoDB` `Supabase` `Shopify API` `WhatsApp API` `Pinecone` `HubSpot` `Vercel` `Render`
+
+---
+
+## 🚀 Featured projects
+
+### 🎬 [StorePilot](https://azdine.site/projects/storepilot) — AI UGC Video Generator
+Product data in, scroll-stopping TikTok/Reels ads out. Eliminates manual video production at catalog scale.
+`Next.js` `OpenAI` `Supabase` `Clerk`
+
+---
+
+### 🛍️ [Shopify Content Automation Pipeline](https://azdine.site/projects/shopify-content-automation)
+Saved a Shopify store 40+ hrs/week of manual work — auto-generates product descriptions, meta titles & blog posts for 2,000+ SKUs.
+`n8n` `OpenAI` `Shopify API` `Supabase`
+
+---
+
+### 🚗 [AutoFlex](https://azdine.site/projects/autoflex) — Car Rental RAG Chatbot
+24/7 WhatsApp customer support handling 200+ daily inquiries — zero staff required.
+`n8n` `OpenAI` `Pinecone` `WhatsApp API`
+
+---
+
+### ✈️ [Casa-Travel](https://azdine.site/projects/casa-travel) — AI Trip Planning Assistant
+Replaced hours of manual agent work with personalized itinerary generation at scale.
+`n8n` `OpenAI` `Next.js` `Supabase`
+
+---
+
+### 📲 [WhatsApp Lead Qualifier](https://azdine.site/projects/whatsapp-lead-qualifier)
+Intake → AI scoring → CRM → auto follow-up. Never lose a lead from WhatsApp, web forms, or social media again.
+`n8n` `OpenAI` `WhatsApp API` `HubSpot`
+
+---
+
+### 💰 [Dynamic Pricing Bot](https://azdine.site/projects/dynamic-pricing-bot)
+Scrapes 15 competitor sites daily and pushes optimal price updates automatically to Shopify.
+`n8n` `Puppeteer` `Shopify API` `Supabase`
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azdinserhani&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdinserhani&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🤝 Work with me
+
+> 💡 **Free 15-min automation audit** — I'll identify your top automation opportunities and estimate ROI. No strings attached.
+
+Whether you need a full automation system, a custom AI agent, or a modern web app — [let's talk](https://azdine.site#contact).
